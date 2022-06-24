@@ -315,6 +315,20 @@
         margin-bottom: 1em;     
     }
 
+    .portfolio-section {
+        margin: 0;
+        font-size: var(--fss-h3);
+        padding-right: 5px;
+    }
+
+    .portfolio-section-subtitle {
+        color: var(--clr-light);
+        background: var(--clr-accent); 
+        font-family: var(--ff-secondary);
+        font-size: 1.5em;
+        margin-bottom: 1em;  
+    }
+
     .section-subtitle-aboutMe {
         background: rgb(200, 1, 1); 
     }
